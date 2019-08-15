@@ -1,2 +1,4 @@
 # ticket
-a simple final work
+recognize the info on railway ticket.
+
+easy cv method and easy machine learning.
